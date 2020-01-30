@@ -19,5 +19,3 @@ In this repository:
 ### Follow the Docs
 See Android_Quick_Start_Guide_P9.pdf section 4.0 for instructions on how to flash the IMX8M-EVKB eMMC (Andorid or Linux)
 When running on Windows, be sure to run the command line as administrator.
-
-![Success:](http://tinyurl.com/qruxm6v)
