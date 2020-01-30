@@ -8,7 +8,8 @@ Contruct a folder on Windows 10, download and unzip the files at  https://commun
 
 Also see this announcement on the community site: https://community.nxp.com/docs/DOC-343278
 
-### Copy/Overwrite the files in this repository
+### Download this repository
+Copy these files to the same folder you created.
 
 In this repository:
 - Android_Quick_Start_Guide_P9.pdf
@@ -18,3 +19,8 @@ In this repository:
 ### Follow the Docs
 See Android_Quick_Start_Guide_P9.pdf section 4.0 for instructions on how to flash the IMX8M-EVKB eMMC (Andorid or Linux)
 When running on Windows, be sure to run the command line as administrator.
+
+This is what success looks like:
+
+![alt text](http://tinyurl.com/qruxm6v "")
+
