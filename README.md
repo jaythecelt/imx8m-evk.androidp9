@@ -1,7 +1,7 @@
 # imx8m-evk.androidp9
 ## Tools and images to flash Android on to the NXP IMX8M-EVKB kit.  
 
-These instructions just help to collect the needed files and useful docs files all in one place.
+These instructions just help to collect the needed files and useful docs all in one place.
 
 ### Add a folder and unzip Android P9 files
 Contruct a folder on Windows 10, download and unzip the files at  https://community.nxp.com/external-link.jspa?url=https%3A%2F%2Fwww.nxp.com%2Fwebapp%2FDownload%3FcolCode%3DP9.0.0_2.0.0_GA_DEMO_8MQ%26appType%3Dlicense then add/overwrite with the files in this repo in the same folder.
